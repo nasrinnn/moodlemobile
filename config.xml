@@ -6,7 +6,7 @@
         versionCode = "391"
         version   = "1.15">
     <name>Moodle Mobile</name>
-<preference name="phonegap-version" value="cli-6.3.0" />
+
     <description>
         Moodle Mobile official app
     </description>
@@ -20,7 +20,7 @@
     </gap:config-file>
 
     <preference name="android-minSdkVersion" value="5" />
-
+    <preference name="phonegap-version" value="cli-6.3.0" />
     <preference name="phonegap-version" value="3.6.3" />
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
